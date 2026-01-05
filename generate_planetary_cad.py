@@ -20,7 +20,7 @@ R_teeth = 30
 P_teeth = 12
 S_teeth = 6
 N_planets = 3
-b_profile = 0.5
+b_profile = 0.1
 
 # --- Define Single-Stage Planetary Kinematics ---
 kinematics = Planetary('s', 'c', 'r') # Sun input, Carrier output, Ring fixed
