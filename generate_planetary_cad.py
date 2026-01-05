@@ -34,8 +34,7 @@ gear = PlanetaryGeometry.create(
     kinematics=kinematics,
     G=G,
     N=N_planets,
-    b=b_profile
-)
+    b=b_profile)
 
 # --- Print Gear Information ---
 print("Generated Single-Stage Planetary Gear Configuration:")
